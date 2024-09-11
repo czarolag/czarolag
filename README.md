@@ -12,6 +12,9 @@ Here are some of the projects I've been working on:
 1. **DiscordBot Project** - This project focuses on creating a template for a discordbot to integrate with Google Spreadsheets to allow editing using a Service Account to make changes from a discord server.
 
 2. **Wiki-Project** - In this project, I worked with a small team to create a wikipage on the topic of Vacation Spots which allows for account creation and uploads.
+   
+3. **Animal Classification Project** - In this project, I focused on training a Convolutional Neural Network Model to recognize and classify images out of a set of 15 different animal species.
+   - Link: https://colab.research.google.com/drive/1EvkZLDbSiKWSc8jYNYCql5vhM3gzMsTs 
 
 
 ## Interests
